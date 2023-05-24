@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Шахматные задачи</string>
+    <string name="author">Автор: Лазарев Артём</string>
+
+    <string-array name="categories">
+        <item>Тактика</item>
+        <item>Этюды</item>
+    </string-array>
+
+    <string-array name="move">
+        <item>Ход белых</item>
+        <item>Ход черных</item>
+    </string-array>
+
+    <string-array name="desk_theme">
+        <item>Классика</item>
+        <item>Черно-белое</item>
+        <item>Зелено-бежевое</item>
+        <item>Аквамарин</item>
+    </string-array>
+</resources>
